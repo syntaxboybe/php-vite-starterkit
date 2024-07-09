@@ -8,7 +8,7 @@ $layout = new HTML(title: 'PHP via Vite');
 	<?php include('partials/nav.php'); ?>
 
 	<div class="w-full max-w-lg text-base">
-		This is a PHP-Vite starter repo.<br />
+		This is a PHP-Vite-Template<br />
 		<br />
 		It contains all the basic needs to start developing modern PHP applications:
 		<ul class="list-disc pl-10">
